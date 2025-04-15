@@ -31,7 +31,7 @@ This project follows a structured pipeline to detect signs of **anxiety** or **d
 - **Remove punctuation** and special characters
 - **Remove stop words** (e.g., "and", "the", "is")
 - **Tokenize** text into words
-- *(Optional)* Lemmatize or stem words for normalization
+- Lemmatize or stem words for normalization
 
 ### 3. 📊 Feature Extraction
 - Use **TF-IDF Vectorization** to convert cleaned text into numerical features.
